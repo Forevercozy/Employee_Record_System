@@ -1,3 +1,5 @@
+The project was required to be done in sprints although developer saw it fit to complete entire project due to the interdependancy of functionalities and webpages as well as the use of several programming languages which were not required as per the sprint requirments.
+
 The Employee Record System is a system that combines the following languages due to its required funtionalities and the comfortability of the developer:
 1. HTML
 2. PHP
@@ -11,8 +13,9 @@ The system has the following functionalities
 5. Print employee record
 6. Add user(admin role ony) - Admin can add new admin or employee
 7. All users can change username and password
+   
 The created database to store user information and records is named sharp_DB and it is saved in the repo folder
-The project was required to be done in sprints although developer saw it fit to complete entire project due to the interdependancy of functionalities and webpages as well as the use of several programming languages which were not required as per the sprint requirments.
+
 Feel free to login to the system and explore
 Admin and employee credentials are saved in the ERS folder in the REPO
 Done by - Ridhwan Swalehe Mwangola;;Strathmore University
