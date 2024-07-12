@@ -1,5 +1,7 @@
 The project was required to be done in sprints although developer saw it fit to complete entire project due to the interdependancy of functionalities and webpages as well as the use of several programming languages which were not required as per the sprint requirments.
 
+When Running web application begin with URL "Localhost/ERS/Index.html" (Ensure project folder is saved in "C/xampp/htdocs")
+
 The Employee Record System is a system that combines the following languages due to its required funtionalities and the comfortability of the developer:
 1. HTML
 2. PHP
